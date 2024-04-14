@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @14slash12
 - 👀 I’m interested in iOS Development
-- 🌱 I’m currently learning Swift and SwiftUI
+- 🌱 I’m Junior Software Engineer using Swift and SwiftUI
 - 💞️ I’m looking to collaborate on iOS apps making life better
 - 📫 How to reach me via pm.
 
